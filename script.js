@@ -1,1 +1,1 @@
-prompt("Witaj na mojej stronce :3", "UwU");
+confirm("Witaj na mojej stronce :3");
